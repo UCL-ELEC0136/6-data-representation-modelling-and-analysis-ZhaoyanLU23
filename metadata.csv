@@ -1,0 +1,30 @@
+Name,Number of Bicycle Hires in the Santander Hire Scheme
+ShortName,Number of Bicycle Hires
+,
+,
+,
+Theme,Transport
+Sub-theme,Cycling
+,
+Title,Number of Bicycle Hires
+Description,"Total number of hires of the Santander Cycle Hire Scheme, by day, month and year"
+Subject,Cycling
+Subject.keyword,cycle hire
+Publisher,GLA
+Date.available,30-July-10 to 30-Sep-20
+Creator,Transport for London (TFL)
+Date.created,Oct 20
+Coverage.spatial,London
+Coverage.temporal,"Daily, monthly and annually"
+Type,Administrative
+Language,English
+Rights,Transport for London (TFL)
+More info,
+Download from,
+Measure,Numbers
+Warnings/Notes,"Please note that from 01 August 2017 due to delayed system events, daily hire figures are subject to small incremental changes. Figures should start to stabilise after a 2 week period."
+,
+,
+,
+,
+Next release,Nov 20
